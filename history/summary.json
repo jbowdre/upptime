@@ -166,18 +166,20 @@
     "url": "$CYBERCHEF_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cyberchef",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 491,
-    "timeWeek": 491,
-    "timeMonth": 491,
-    "timeYear": 491,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 462,
+    "timeDay": 462,
+    "timeWeek": 462,
+    "timeMonth": 462,
+    "timeYear": 462,
+    "dailyMinutesDown": {
+      "2024-01-30": 0
+    }
   },
   {
     "name": "Files",
