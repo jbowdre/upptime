@@ -9,8 +9,6 @@ sites:
     url: https://jbowdre.lol
   - name: Scribbles 'n Bits'
     url: https://scribbles.jbowdre.lol
-  - name: Gitea
-    url: https://git.bowdre.net
   - name: smp.vpota.to
     url: smp.vpota.to
     port: 5223
@@ -23,6 +21,8 @@ sites:
     url: smp2.vpota.to
     port: 5223
     check: "tcp-ping"
+  - name: Gitea
+    url: https://git.bowdre.net
   - name: Linkding
     url: $LINKDING_URL
   - name: Miniflux
@@ -41,15 +41,17 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: upptime.jbowdre.lol
+  cname: uptime.runtimeterror.dev
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: '**I work hard** to meet a strict *"up most of the time"* SLA.'
+  name: Upptime Terror
+  introTitle: '**I work hard** to meet a strict *"up usually"* SLA.'
   introMessage: This status page uses **real-time** data from my [GitHub repository](https://github.com/jbowdre/upptime).
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://runtimeterror.dev
     - title: GitHub
       href: https://github.com/$OWNER
 
