@@ -3,28 +3,30 @@ owner: jbowdre # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: runtimeterror
+  - name: https://runtimeterror.dev
     url: https://runtimeterror.dev
-  - name: omg
+  - name: https://jbowdre.lol
     url: https://jbowdre.lol
-  - name: Scribbles 'n Bits'
+  - name: https://scribbles.jbowdre.lol
     url: https://scribbles.jbowdre.lol
-  - name: smp.vpota.to
+  - name: smp.vpota.to:5223
     url: smp.vpota.to
     port: 5223
     check: "tcp-ping"
-  - name: smp1.vpota.to
+  - name: smp1.vpota.to:5223
     url: smp1.vpota.to
     port: 5223
     check: "tcp-ping"
-  - name: smp2.vpota.to
+  - name: smp2.vpota.to:5223
     url: smp2.vpota.to
     port: 5223
     check: "tcp-ping"
-  - name: Gitea
+  - name: https://git.bowdre.net
     url: https://git.bowdre.net
-  - name: Linkding
-    url: $LINKDING_URL
+  - name: https://links.bowdre.net
+    url: https://links.bowdre.net
+  - name: https://chat.vpota.to
+    url: https://chat.vpota.to
   - name: Miniflux
     url: $MINIFLUX_URL
   - name: Cyberchef
@@ -35,8 +37,6 @@ sites:
     url: $IMMICH_URL
   - name: Ntfy
     url: $NTFY_URL
-  - name: Snikket
-    url: $SNIKKET_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -54,6 +54,7 @@ status-website:
       href: https://runtimeterror.dev
     - title: GitHub
       href: https://github.com/$OWNER
+  customHeadHtml: "<link rel=\"me\" title=\"proven.lol\" href=\"proven.lol/90a2f9\">"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
