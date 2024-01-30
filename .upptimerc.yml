@@ -3,19 +3,26 @@ owner: jbowdre # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: runtimeterror
+    url: https://runtimeterror.dev
+  - name: omg
+    url: https://jbowdre.lol
+  - name: Scribbles 'n Bits'
+    url: https://scribbles.jbowdre.lol
+  - name: Gitea
+    url: https://git.bowdre.net
+  - name: smp.vpota.to
+    url: smp.vpota.to
+    port: 5223
     check: "tcp-ping"
-    ipv6: true
+  - name: smp1.vpota.to
+    url: smp1.vpota.to
+    port: 5223
+    check: "tcp-ping"
+  - name: smp2.vpota.to
+    url: smp2.vpota.to
+    port: 5223
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
