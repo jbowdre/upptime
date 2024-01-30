@@ -4,19 +4,19 @@
     "url": "https://runtimeterror.dev",
     "icon": "https://icons.duckduckgo.com/ip3/runtimeterror.dev.ico",
     "slug": "runtimeterror",
-    "status": "down",
-    "uptime": "2.46%",
-    "uptimeDay": "2.46%",
-    "uptimeWeek": "2.46%",
-    "uptimeMonth": "2.46%",
-    "uptimeYear": "2.46%",
-    "time": 124,
-    "timeDay": 124,
-    "timeWeek": 124,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "status": "up",
+    "uptime": "0.84%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "0.84%",
+    "uptimeMonth": "0.84%",
+    "uptimeYear": "0.84%",
+    "time": 269,
+    "timeDay": 269,
+    "timeWeek": 269,
+    "timeMonth": 269,
+    "timeYear": 269,
     "dailyMinutesDown": {
-      "2024-01-30": 0
+      "2024-01-30": 15
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://git.bowdre.net",
     "icon": "https://icons.duckduckgo.com/ip3/git.bowdre.net.ico",
     "slug": "gitea",
-    "status": "down",
-    "uptime": "2.39%",
-    "uptimeDay": "2.39%",
-    "uptimeWeek": "2.39%",
-    "uptimeMonth": "2.39%",
-    "uptimeYear": "2.39%",
-    "time": 74,
-    "timeDay": 74,
-    "timeWeek": 74,
-    "timeMonth": 74,
-    "timeYear": 74,
+    "status": "up",
+    "uptime": "0.46%",
+    "uptimeDay": "0.46%",
+    "uptimeWeek": "0.46%",
+    "uptimeMonth": "0.46%",
+    "uptimeYear": "0.46%",
+    "time": 460,
+    "timeDay": 460,
+    "timeWeek": 460,
+    "timeMonth": 460,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2024-01-30": 0
+      "2024-01-30": 15
     }
   },
   {
