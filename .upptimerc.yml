@@ -16,8 +16,6 @@ sites:
     url: https://links.bowdre.net
 
   # chat servers
-  - name: https://chat.vpota.to
-    url: https://chat.vpota.to
   - name: smp.vpota.to:5223
     url: smp.vpota.to
     port: 5223
@@ -32,16 +30,18 @@ sites:
     check: "tcp-ping"
 
   # non-public services
+  - name: Immich
+    url: $IMMICH_URL
   - name: Miniflux
     url: $MINIFLUX_URL
   - name: Cyberchef
     url: $CYBERCHEF_URL
   - name: Files
     url: $FILES_URL
-  - name: Immich
-    url: $IMMICH_URL
   - name: Ntfy
     url: $NTFY_URL
+  - name: XMPP
+    url: $SNIKKET_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
