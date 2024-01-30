@@ -23,6 +23,20 @@ sites:
     url: smp2.vpota.to
     port: 5223
     check: "tcp-ping"
+  - name: Linkding
+    url: $LINKDING_URL
+  - name: Miniflux
+    url: $MINIFLUX_URL
+  - name: Cyberchef
+    url: $CYBERCHEF_URL
+  - name: Files
+    url: $FILES_URL
+  - name: Immich
+    url: $IMMICH_URL
+  - name: Ntfy
+    url: $NTFY_URL
+  - name: Snikket
+    url: $SNIKKET_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
