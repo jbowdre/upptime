@@ -38,7 +38,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime Terror
-  introTitle: '**I work hard** to meet a strict *"usually operational"* SLA.'
+  introTitle: '**I work hard** to meet a strict *"usually up"* SLA.'
   introMessage: This status page uses **real-time** data from my [GitHub repository](https://github.com/jbowdre/upptime).
   navbar:
     - title: Status
