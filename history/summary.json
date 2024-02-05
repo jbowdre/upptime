@@ -22,18 +22,20 @@
     "url": "https://jbowdre.lol",
     "icon": "https://icons.duckduckgo.com/ip3/jbowdre.lol.ico",
     "slug": "https-jbowdre-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 459,
-    "timeWeek": 458,
-    "timeMonth": 458,
-    "timeYear": 458,
-    "dailyMinutesDown": {}
+    "time": 477,
+    "timeDay": 591,
+    "timeWeek": 477,
+    "timeMonth": 477,
+    "timeYear": 477,
+    "dailyMinutesDown": {
+      "2024-02-05": 0
+    }
   },
   {
     "name": "https://scribbles.jbowdre.lol",
