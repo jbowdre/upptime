@@ -4,9 +4,9 @@
     "url": "https://runtimeterror.dev",
     "icon": "https://icons.duckduckgo.com/ip3/runtimeterror.dev.ico",
     "slug": "https-runtimeterror-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 281,
     "timeMonth": 554,
     "timeYear": 554,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-15": 0
+    }
   },
   {
     "name": "https://jbowdre.lol",
@@ -29,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 514,
-    "timeDay": 584,
-    "timeWeek": 535,
+    "timeDay": 610,
+    "timeWeek": 546,
     "timeMonth": 514,
     "timeYear": 514,
     "dailyMinutesDown": {}
