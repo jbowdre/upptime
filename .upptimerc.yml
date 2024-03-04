@@ -31,6 +31,16 @@ sites:
     port: 5223
     check: "tcp-ping"
 
+  # gemini capsules
+  - name: gemini://gmi.runtimeterror.dev
+    url: gmi.runtimeterror.dev
+    port: 1965
+    check: "tcp-ping"
+  - name: gemini://capsule.jbowdre.lol
+    url: capsule.jbowdre.lol
+    port: 1965
+    check: "tcp-ping"
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
