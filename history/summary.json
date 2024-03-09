@@ -46,19 +46,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/scribbles.jbowdre.lol.ico",
     "slug": "https-scribbles-jbowdre-lol",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 591,
     "timeDay": 553,
     "timeWeek": 579,
     "timeMonth": 597,
     "timeYear": 591,
-    "dailyMinutesDown": {
-      "2024-03-08": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "https://git.bowdre.net",
