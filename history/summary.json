@@ -48,19 +48,19 @@
     "url": "https://scribbles.jbowdre.lol",
     "icon": "https://icons.duckduckgo.com/ip3/scribbles.jbowdre.lol.ico",
     "slug": "https-scribbles-jbowdre-lol",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 976,
-    "timeDay": 6138,
-    "timeWeek": 3065,
-    "timeMonth": 1368,
-    "timeYear": 976,
+    "time": 973,
+    "timeDay": 5060,
+    "timeWeek": 2854,
+    "timeMonth": 1350,
+    "timeYear": 973,
     "dailyMinutesDown": {
-      "2024-03-25": 20
+      "2024-03-25": 26
     }
   },
   {
