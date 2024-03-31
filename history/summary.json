@@ -87,19 +87,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.bowdre.net.ico",
     "slug": "https-links-bowdre-net",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 471,
     "timeDay": 318,
     "timeWeek": 399,
     "timeMonth": 445,
     "timeYear": 471,
-    "dailyMinutesDown": {
-      "2024-03-31": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "https://grep.vim.wtf",
@@ -107,19 +105,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/grep.vim.wtf.ico",
     "slug": "https-grep-vim-wtf",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 547,
     "timeDay": 391,
     "timeWeek": 482,
     "timeMonth": 535,
     "timeYear": 547,
-    "dailyMinutesDown": {
-      "2024-03-31": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smp.vpota.to:5223",
@@ -145,38 +141,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smp1-vpota-to-5223",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 38,
     "timeDay": 37,
     "timeWeek": 39,
     "timeMonth": 40,
     "timeYear": 38,
-    "dailyMinutesDown": {
-      "2024-03-31": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smp2.vpota.to:5223",
     "url": "smp2.vpota.to",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smp2-vpota-to-5223",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.76%",
-    "time": 30,
-    "timeDay": 71,
-    "timeWeek": 47,
-    "timeMonth": 34,
-    "timeYear": 30,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.75%",
+    "time": 31,
+    "timeDay": 68,
+    "timeWeek": 49,
+    "timeMonth": 35,
+    "timeYear": 31,
     "dailyMinutesDown": {
-      "2024-03-31": 13,
+      "2024-03-31": 27,
       "2024-02-19": 197
     }
   },
