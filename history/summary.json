@@ -68,19 +68,19 @@
     "url": "https://git.bowdre.net",
     "icon": "https://icons.duckduckgo.com/ip3/git.bowdre.net.ico",
     "slug": "https-git-bowdre-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 747,
-    "timeDay": 599,
-    "timeWeek": 763,
-    "timeMonth": 774,
-    "timeYear": 747,
+    "time": 749,
+    "timeDay": 697,
+    "timeWeek": 778,
+    "timeMonth": 778,
+    "timeYear": 749,
     "dailyMinutesDown": {
-      "2024-03-31": 6
+      "2024-03-31": 7
     }
   },
   {
@@ -90,9 +90,9 @@
     "slug": "https-links-bowdre-net",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 473,
     "timeDay": 325,
@@ -100,7 +100,7 @@
     "timeMonth": 450,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2024-03-31": 6
+      "2024-03-31": 10
     }
   },
   {
@@ -109,18 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/grep.vim.wtf.ico",
     "slug": "https-grep-vim-wtf",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 548,
     "timeDay": 339,
     "timeWeek": 480,
     "timeMonth": 536,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2024-03-31": 6
+      "2024-03-31": 10
     }
   },
   {
@@ -147,18 +147,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smp1-vpota-to-5223",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 38,
     "timeDay": 61,
     "timeWeek": 43,
     "timeMonth": 41,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2024-03-31": 4
+      "2024-03-31": 8
     }
   },
   {
@@ -168,9 +168,9 @@
     "slug": "smp2-vpota-to-5223",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.77%",
     "time": 30,
     "timeDay": 71,
@@ -178,7 +178,7 @@
     "timeMonth": 34,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2024-03-31": 3,
+      "2024-03-31": 7,
       "2024-02-19": 197
     }
   },
@@ -187,19 +187,19 @@
     "url": "gmi.runtimeterror.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gemini-gmi-runtimeterror-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 32,
-    "timeDay": 56,
-    "timeWeek": 40,
-    "timeMonth": 32,
-    "timeYear": 32,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 33,
+    "timeDay": 55,
+    "timeWeek": 42,
+    "timeMonth": 33,
+    "timeYear": 33,
     "dailyMinutesDown": {
-      "2024-03-31": 2
+      "2024-03-31": 5
     }
   },
   {
@@ -207,19 +207,19 @@
     "url": "capsule.jbowdre.lol",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gemini-capsule-jbowdre-lol",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 32,
     "timeDay": 55,
-    "timeWeek": 40,
+    "timeWeek": 42,
     "timeMonth": 32,
     "timeYear": 32,
     "dailyMinutesDown": {
-      "2024-03-31": 0,
+      "2024-03-31": 4,
       "2024-03-04": 26
     }
   }
