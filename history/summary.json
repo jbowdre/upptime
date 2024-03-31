@@ -69,38 +69,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.bowdre.net.ico",
     "slug": "https-git-bowdre-net",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 749,
     "timeDay": 697,
     "timeWeek": 778,
     "timeMonth": 778,
     "timeYear": 749,
-    "dailyMinutesDown": {
-      "2024-03-31": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "https://links.bowdre.net",
     "url": "https://links.bowdre.net",
     "icon": "https://icons.duckduckgo.com/ip3/links.bowdre.net.ico",
     "slug": "https-links-bowdre-net",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 473,
-    "timeDay": 325,
-    "timeWeek": 410,
-    "timeMonth": 450,
-    "timeYear": 473,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 471,
+    "timeDay": 318,
+    "timeWeek": 399,
+    "timeMonth": 445,
+    "timeYear": 471,
     "dailyMinutesDown": {
-      "2024-03-31": 10
+      "2024-03-31": 14
     }
   },
   {
@@ -108,19 +106,19 @@
     "url": "https://grep.vim.wtf",
     "icon": "https://icons.duckduckgo.com/ip3/grep.vim.wtf.ico",
     "slug": "https-grep-vim-wtf",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 548,
-    "timeDay": 339,
-    "timeWeek": 480,
-    "timeMonth": 536,
-    "timeYear": 548,
+    "time": 547,
+    "timeDay": 391,
+    "timeWeek": 482,
+    "timeMonth": 535,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-03-31": 10
+      "2024-03-31": 14
     }
   },
   {
@@ -146,19 +144,19 @@
     "url": "smp1.vpota.to",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smp1-vpota-to-5223",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 38,
-    "timeDay": 61,
-    "timeWeek": 43,
-    "timeMonth": 41,
+    "timeDay": 37,
+    "timeWeek": 39,
+    "timeMonth": 40,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2024-03-31": 8
+      "2024-03-31": 13
     }
   },
   {
@@ -167,18 +165,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smp2-vpota-to-5223",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.76%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.76%",
     "time": 30,
     "timeDay": 71,
     "timeWeek": 47,
     "timeMonth": 34,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2024-03-31": 7,
+      "2024-03-31": 13,
       "2024-02-19": 197
     }
   },
@@ -188,19 +186,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gemini-gmi-runtimeterror-dev",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 33,
     "timeDay": 55,
     "timeWeek": 42,
     "timeMonth": 33,
     "timeYear": 33,
-    "dailyMinutesDown": {
-      "2024-03-31": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gemini://capsule.jbowdre.lol",
@@ -208,18 +204,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gemini-capsule-jbowdre-lol",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 32,
     "timeDay": 55,
     "timeWeek": 42,
     "timeMonth": 32,
     "timeYear": 32,
     "dailyMinutesDown": {
-      "2024-03-31": 4,
       "2024-03-04": 26
     }
   }
