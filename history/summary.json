@@ -107,19 +107,19 @@
     "url": "https://grep.vpota.to",
     "icon": "https://icons.duckduckgo.com/ip3/grep.vpota.to.ico",
     "slug": "https-grep-vpota-to",
-    "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
-    "time": 297,
-    "timeDay": 297,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "status": "up",
+    "uptime": "59.15%",
+    "uptimeDay": "59.15%",
+    "uptimeWeek": "59.15%",
+    "uptimeMonth": "59.15%",
+    "uptimeYear": "59.15%",
+    "time": 309,
+    "timeDay": 309,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2024-04-16": 0
+      "2024-04-16": 7
     }
   },
   {
