@@ -14,8 +14,8 @@ sites:
     url: https://git.bowdre.net
   - name: https://links.bowdre.net
     url: https://links.bowdre.net
-  - name: https://grep.vim.wtf
-    url: https://grep.vim.wtf
+  - name: https://grep.vpota.to
+    url: https://grep.vpota.to
 
   # chat servers
   - name: smp.vpota.to:5223
