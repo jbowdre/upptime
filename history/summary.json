@@ -130,19 +130,19 @@
     "url": "smp.vpota.to",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smp-vpota-to-5223",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 39,
-    "timeDay": 62,
-    "timeWeek": 35,
+    "timeDay": 38,
+    "timeWeek": 32,
     "timeMonth": 39,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-05-03": 0
+      "2024-05-03": 7
     }
   },
   {
