@@ -16,6 +16,8 @@ sites:
     url: https://links.bowdre.net
   - name: https://grep.vpota.to
     url: https://grep.vpota.to
+  - name: https://notes.runtimeterror.dev
+    url: https://notes.runtimeterror.dev
 
   # chat servers
   - name: smp.vpota.to:5223
