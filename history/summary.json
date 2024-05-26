@@ -4,11 +4,11 @@
     "url": "https://runtimeterror.dev",
     "icon": "https://icons.duckduckgo.com/ip3/runtimeterror.dev.ico",
     "slug": "https-runtimeterror-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "38.13%",
-    "uptimeWeek": "85.84%",
-    "uptimeMonth": "96.74%",
+    "uptimeDay": "39.19%",
+    "uptimeWeek": "85.92%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "99.14%",
     "time": 776,
     "timeDay": 334,
@@ -16,7 +16,7 @@
     "timeMonth": 760,
     "timeYear": 776,
     "dailyMinutesDown": {
-      "2024-05-26": 86,
+      "2024-05-26": 78,
       "2024-05-25": 1340,
       "2024-03-04": 25
     }
