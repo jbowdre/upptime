@@ -81,19 +81,19 @@
     "url": "https://git.bowdre.net",
     "icon": "https://icons.duckduckgo.com/ip3/git.bowdre.net.ico",
     "slug": "https-git-bowdre-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 822,
-    "timeDay": 242,
-    "timeWeek": 780,
-    "timeMonth": 854,
-    "timeYear": 822,
+    "time": 821,
+    "timeDay": 353,
+    "timeWeek": 757,
+    "timeMonth": 845,
+    "timeYear": 821,
     "dailyMinutesDown": {
-      "2024-06-30": 0
+      "2024-06-30": 7
     }
   },
   {
