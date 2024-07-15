@@ -12,7 +12,7 @@
     "uptimeYear": "99.35%",
     "time": 742,
     "timeDay": 232,
-    "timeWeek": 620,
+    "timeWeek": 654,
     "timeMonth": 825,
     "timeYear": 742,
     "dailyMinutesDown": {
@@ -28,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jbowdre.lol.ico",
     "slug": "https-jbowdre-lol",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "98.95%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.96%",
     "time": 1073,
     "timeDay": 682,
     "timeWeek": 730,
-    "timeMonth": 819,
+    "timeMonth": 821,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2024-06-15": 173,
@@ -63,9 +63,9 @@
     "url": "https://blog.jbowdre.lol",
     "icon": "https://icons.duckduckgo.com/ip3/blog.jbowdre.lol.ico",
     "slug": "https-blog-jbowdre-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +74,9 @@
     "timeWeek": 565,
     "timeMonth": 421,
     "timeYear": 421,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-15": 0
+    }
   },
   {
     "name": "https://git.bowdre.net",
