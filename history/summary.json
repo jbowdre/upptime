@@ -64,19 +64,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.jbowdre.lol.ico",
     "slug": "https-blog-jbowdre-lol",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 421,
     "timeDay": 432,
     "timeWeek": 548,
     "timeMonth": 421,
     "timeYear": 421,
-    "dailyMinutesDown": {
-      "2024-07-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "https://git.bowdre.net",
@@ -137,9 +135,9 @@
     "url": "https://notes.runtimeterror.dev",
     "icon": "https://icons.duckduckgo.com/ip3/notes.runtimeterror.dev.ico",
     "slug": "https-notes-runtimeterror-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -148,7 +146,9 @@
     "timeWeek": 314,
     "timeMonth": 334,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-15": 0
+    }
   },
   {
     "name": "smp.vpota.to:5223",
