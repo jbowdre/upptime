@@ -63,18 +63,20 @@
     "url": "https://blog.jbowdre.lol",
     "icon": "https://icons.duckduckgo.com/ip3/blog.jbowdre.lol.ico",
     "slug": "https-blog-jbowdre-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 578,
-    "timeWeek": 451,
-    "timeMonth": 483,
-    "timeYear": 438,
-    "dailyMinutesDown": {}
+    "time": 440,
+    "timeDay": 565,
+    "timeWeek": 464,
+    "timeMonth": 485,
+    "timeYear": 440,
+    "dailyMinutesDown": {
+      "2024-08-01": 0
+    }
   },
   {
     "name": "https://git.bowdre.net",
