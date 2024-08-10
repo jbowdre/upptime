@@ -63,19 +63,19 @@
     "url": "https://blog.jbowdre.lol",
     "icon": "https://icons.duckduckgo.com/ip3/blog.jbowdre.lol.ico",
     "slug": "https-blog-jbowdre-lol",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 477,
-    "timeWeek": 717,
-    "timeMonth": 561,
-    "timeYear": 489,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 491,
+    "timeDay": 541,
+    "timeWeek": 705,
+    "timeMonth": 562,
+    "timeYear": 491,
     "dailyMinutesDown": {
-      "2024-08-10": 0
+      "2024-08-10": 15
     }
   },
   {
