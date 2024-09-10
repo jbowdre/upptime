@@ -64,9 +64,9 @@
     "url": "https://blog.jbowdre.lol",
     "icon": "https://icons.duckduckgo.com/ip3/blog.jbowdre.lol.ico",
     "slug": "https-blog-jbowdre-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -76,6 +76,7 @@
     "timeMonth": 763,
     "timeYear": 579,
     "dailyMinutesDown": {
+      "2024-09-10": 0,
       "2024-08-10": 15
     }
   },
