@@ -103,19 +103,19 @@
     "url": "https://links.bowdre.net",
     "icon": "https://icons.duckduckgo.com/ip3/links.bowdre.net.ico",
     "slug": "https-links-bowdre-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 406,
-    "timeDay": 271,
-    "timeWeek": 324,
-    "timeMonth": 306,
+    "timeDay": 268,
+    "timeWeek": 317,
+    "timeMonth": 305,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-21": 19
     }
   },
   {
