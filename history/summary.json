@@ -130,7 +130,7 @@
     "uptime": "92.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.61%",
+    "uptimeMonth": "55.59%",
     "uptimeYear": "92.57%",
     "time": 353,
     "timeDay": 0,
@@ -138,7 +138,7 @@
     "timeMonth": 340,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2024-10-15": 945,
+      "2024-10-15": 952,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -179,19 +179,19 @@
     "url": "smp.vpota.to",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smp-vpota-to-5223",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 36,
-    "timeWeek": 35,
+    "timeDay": 34,
+    "timeWeek": 34,
     "timeMonth": 39,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-10-15": 0
+      "2024-10-15": 7
     }
   },
   {
