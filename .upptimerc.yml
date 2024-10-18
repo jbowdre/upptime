@@ -8,14 +8,12 @@ sites:
     url: https://runtimeterror.dev
   - name: https://jbowdre.lol
     url: https://jbowdre.lol
-  - name: https://blog.jbowdre.lol
-    url: https://blog.jbowdre.lol
+  - name: https://srsbsns.lol
+    url: https://srsbsns.lol
   - name: https://git.bowdre.net
     url: https://git.bowdre.net
   - name: https://links.bowdre.net
     url: https://links.bowdre.net
-  - name: https://grep.vpota.to
-    url: https://grep.vpota.to
   - name: https://notes.runtimeterror.dev
     url: https://notes.runtimeterror.dev
 
