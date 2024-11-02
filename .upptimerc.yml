@@ -8,8 +8,8 @@ sites:
     url: https://runtimeterror.dev
   - name: https://jbowdre.lol
     url: https://jbowdre.lol
-  # - name: https://srsbsns.lol
-  #   url: https://srsbsns.lol
+  - name: https://srsbsns.lol
+    url: https://srsbsns.lol
   - name: https://goto.srsbsns.lol
     url: https://goto.srsbsns.lol
   - name: https://git.bowdre.net
