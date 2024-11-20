@@ -13,7 +13,7 @@
     "time": 829,
     "timeDay": 691,
     "timeWeek": 354,
-    "timeMonth": 767,
+    "timeMonth": 782,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2024-06-01": 74,
@@ -29,14 +29,14 @@
     "slug": "https-jbowdre-lol",
     "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "97.95%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "98.67%",
     "time": 1105,
-    "timeDay": 5862,
+    "timeDay": 1113,
     "timeWeek": 2605,
-    "timeMonth": 1825,
+    "timeMonth": 1850,
     "timeYear": 1105,
     "dailyMinutesDown": {
       "2024-11-19": 30,
@@ -80,7 +80,7 @@
     "time": 458,
     "timeDay": 679,
     "timeWeek": 460,
-    "timeMonth": 458,
+    "timeMonth": 460,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2024-10-22": 16
@@ -100,7 +100,7 @@
     "time": 747,
     "timeDay": 579,
     "timeWeek": 371,
-    "timeMonth": 330,
+    "timeMonth": 336,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2024-10-22": 22
@@ -140,7 +140,7 @@
     "time": 346,
     "timeDay": 438,
     "timeWeek": 345,
-    "timeMonth": 296,
+    "timeMonth": 297,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2024-10-22": 16,
@@ -170,9 +170,9 @@
     "url": "smp1.vpota.to",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smp1-vpota-to-5223",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -182,6 +182,7 @@
     "timeMonth": 31,
     "timeYear": 37,
     "dailyMinutesDown": {
+      "2024-11-20": 0,
       "2024-05-04": 124
     }
   },
@@ -199,7 +200,7 @@
     "time": 29,
     "timeDay": 56,
     "timeWeek": 26,
-    "timeMonth": 20,
+    "timeMonth": 21,
     "timeYear": 29,
     "dailyMinutesDown": {
       "2024-03-31": 27,
